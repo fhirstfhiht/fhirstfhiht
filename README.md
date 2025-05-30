@@ -15,8 +15,7 @@
 ### 🏘️ Real Estate Management System (2024)
 - Built a desktop application in Java for managing real estate properties
 - Implemented property listings, client records, rental management, and user authentication
-- Used PostgreSQL for data storage and Swing for the user interface
-- Group project following Agile methodology
+- Group project following Scrum methodology
 
 ---
 
