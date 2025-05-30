@@ -1,4 +1,4 @@
-##👋 Hi, I’m Issam
+### 👋 Hi, I’m Issam
 
 - 🎓 I'm a second-year Computer Science student (BUT Informatique in France), passionate about software development, web technologies, and all things tech. I'm curious, motivated, and always eager to learn something new!
 ---
