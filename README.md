@@ -23,7 +23,7 @@
 ## 🤝 Open to...
 
 - Joining student or open-source projects
-- Internship opportunities in development (starting [Month/Year])
+- Internship opportunities in development 
 - Connecting with fellow developers and tech enthusiasts
 
 ---
